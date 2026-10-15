@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @animespharikal-system
+/src/backend/database.py      @animespharikal-system
+/src/backend/routers/auth.py  @animespharikal-system
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @animespharikal-system
